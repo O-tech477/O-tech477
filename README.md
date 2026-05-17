@@ -34,10 +34,10 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 
 ## 📈 GitHub Stats
 
-![O-tech477's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-tech477&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tech477&layout=compact&theme=transparent)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=O-tech477&show_icons=true&theme=radical" alt="O-tech477's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-tech477&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ---
 
 ---
