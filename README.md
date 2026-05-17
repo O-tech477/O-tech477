@@ -1,6 +1,8 @@
-# Hi there, I'm Ananth Ram Omkar (O-tech477) 👋
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&width=600&lines=Hello+there,+I+am+O-tech477...;Welcome+to+my+GitHub!" alt="Typing animation" />
+</div>
 
-Welcome to my GitHub! I'm a passionate student and developer with a deep love for coding, web development, and machine learning. Python is my go-to language, but I'm constantly exploring new technologies to build cool things and expand my skillset.
+I'm a passionate student and developer with a deep love for coding, web development, and machine learning. Python is my go-to language, but I'm constantly exploring new technologies to build cool things and expand my skillset.
 
 ---
 
@@ -42,7 +44,11 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 ## 🐍 My Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/O-tech477/O-tech477/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/O-tech477/O-tech477/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/O-tech477/O-tech477/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/O-tech477/O-tech477/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
