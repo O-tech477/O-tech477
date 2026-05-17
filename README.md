@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 
 ## 📈 GitHub Stats
 
-![O-tech477's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-tech477&show_icons=true&theme=radical&v=1)
+![O-tech477's GitHub stats](https://streak-stats.demolab.com/?user=O-tech477&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tech477&layout=compact&theme=radical&v=1)
 
