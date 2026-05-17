@@ -40,7 +40,6 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 </div>
 ---
 
----
 
 ## 🐍 My Contribution Snake
 
