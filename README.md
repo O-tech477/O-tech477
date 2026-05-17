@@ -17,8 +17,8 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 ## 🛠️ My Tech Stack
 
 * **Languages:** Python, JavaScript, Triton, C
-* **Web Dev:** React, NodeJS, MERN
-* **Machine Learning:** Pytorch and Sckitlearn 
+* **Web Dev:** React, Node.js, MERN
+* **Machine Learning:** PyTorch, Scikit-Learn 
 * **Tools:** Git, GitHub, VS Code
 
 ---
@@ -31,23 +31,19 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 
 ---
 
-
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-tech477&show_icons=true&theme=radical" alt="O-tech477's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-tech477&layout=compact&theme=radical" alt="Top Languages" />
-</div>
----
+![O-tech477's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-tech477&show_icons=true&theme=radical&v=1)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tech477&layout=compact&theme=radical&v=1)
+
+---
 
 ## 🐍 My Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/O-tech477/O-tech477/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
 
 ---
 
