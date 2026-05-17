@@ -1,14 +1,16 @@
 name: Generate Snake
 
 on:
-  schedule: # Execute automatically every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  
-  workflow_dispatch: # Allow manual execution
-  
+  workflow_dispatch:
   push:
     branches:
-    - main # Or 'master' if your default branch is called master
+    - main
+
+# THIS IS THE MAGIC FIX
+permissions:
+  contents: write
 
 jobs:
   build:
