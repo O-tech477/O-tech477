@@ -16,10 +16,9 @@ Welcome to my GitHub! I'm a passionate student and developer with a deep love fo
 
 ## 🛠️ My Tech Stack
 
-*(Update these with your specific tools!)*
-* **Languages:** Python, JavaScript, HTML/CSS
-* **Web Dev:** (e.g., React, Node.js, Django, Flask)
-* **Machine Learning:** (e.g., TensorFlow, Scikit-Learn, Pandas)
+* **Languages:** Python, JavaScript, Triton, C
+* **Web Dev:** React, NodeJS, MERN
+* **Machine Learning:** Pytorch and Sckitlearn 
 * **Tools:** Git, GitHub, VS Code
 
 ---
