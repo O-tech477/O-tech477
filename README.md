@@ -35,7 +35,6 @@ I'm a passionate student and developer with a deep love for coding, web developm
 ### Machine Learning & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton_ML-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -44,6 +43,7 @@ I'm a passionate student and developer with a deep love for coding, web developm
 
 * Advanced Frontend & Backend web technologies
 * Deep Learning & Artificial Intelligence concepts
+* Languages like Rust, Go and Triton. 
 * Data Structures & Algorithms (DSA)
 * Modern developer tools and best practices
 
