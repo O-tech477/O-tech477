@@ -1,37 +1,39 @@
 <table align="center">
 <tr>
-<td width="45%" align="center">
+<td width="60%" align="center">
 
-<img src="images/sky.png" width="100%" alt="Aesthetic"/>
+<img src="/sky.png" width="80%" alt="Aesthetic"/>
 
 </td>
 
-<td width="55%" align="center">
+<td width="40%" align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=B59E50&center=true&vCenter=true&width=400&lines=to+infinity+and+beyond..." />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=50&color=C8A96A&center=true&vCenter=true&width=400&lines=to+infinity+and+beyond..." />
 </a>
 
-<br><br>
+<br>
 
 <samp>
 <strong>Omakr</strong>
 <br>
 problem-solver │ developer │ webdev │ ai/ml
 
+<br>
+<br>
+<samp>
+curious mind.<br>
+passionate builder.<br>
+love turning ideas into impact.
+</samp>
+
+<br>
 <br><br>
-
-Curious mind.<br>
-Passionate builder.<br>
-I love turning ideas into impact.
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/ananth-ram-omkar-k-prabhu-1b6a25319/">linkedin</a>
 │
 <a href="https://www.instagram.com/ananth.ram.omkar/">instagram</a>
 │
-<a href="https://mycosmicmelodies.blogspot.com/">blog</a>
+<a href="https://mycosmicmelodies.blogspot.com/">my blog</a>
 
 </samp>
 
