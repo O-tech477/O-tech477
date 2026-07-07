@@ -9,7 +9,7 @@
 <td width="40%" align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=50&color=C8A96A&center=true&vCenter=true&width=400&lines=to+infinity+and+beyond..." />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=50&color=C8A96A&center=true&vCenter=true&width=400&lines=to+curiosity+and+beyond..." />
 </a>
 
 <br>
