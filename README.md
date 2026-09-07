@@ -8,10 +8,6 @@
 
 <td width="40%" align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=50&color=C8A96A&center=true&vCenter=true&width=400&lines=to+curiosity+and+beyond..." />
-</a>
-
 <br>
 
 <samp>
@@ -46,11 +42,6 @@ love turning ideas into impact.
 <table align="center">
 <tr>
 
-<td width="45%">
-
-<img src="https://streak-stats.demolab.com/?user=O-tech477&theme=radical&hide_border=true"/>
-
-</td>
 
 <td width="55%">
 
